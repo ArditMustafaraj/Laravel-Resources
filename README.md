@@ -51,6 +51,7 @@
 * [Laravel Recipes](http://laravel-recipes.com/)
 * [Learning Laravel Center](http://www.learninglaravel.net)
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005)
+* [intolaravel](http://www.intolaravel.com/)
 
 ###Books
 * [Laravel: Code Bright](https://leanpub.com/codebright)
